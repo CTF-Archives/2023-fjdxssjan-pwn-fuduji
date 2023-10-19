@@ -6,4 +6,4 @@
 
 本项目使用动态flag，请使用$FLAG环境变量传入flag数据（如CTFd），题目环境位于9999端口
 
-docker镜像发布于DockerHub：randark/2023-fjdxssjan-pwn-fuduji:master 
+docker镜像发布于DockerHub：randark/2023-fjdxssjan-pwn-fuduji:master
